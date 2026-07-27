@@ -79,13 +79,13 @@
 
 ### 在线浏览
 
-访问网站：https://你的用户名.github.io/python-notes/
+访问网站：https://mocoss.github.io/pythonnotes/
 
 ### 本地运行
 
 ```bash
 # 克隆项目
-git clone https://github.com/你的用户名/python-notes.git
+git clone https://github.com/mocoss/pythonnotes.git
 cd python-notes
 
 # 安装依赖
